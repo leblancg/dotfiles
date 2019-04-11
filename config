@@ -1,0 +1,10 @@
+# Umich CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User leblancg
+	Compression yes
+# Primary GitHub
+Host github
+	HostName github.com
+	User leblancg
+	IdentityFile ~/.ssh/id_pub
